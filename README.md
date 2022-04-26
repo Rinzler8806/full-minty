@@ -9,6 +9,6 @@ This project is created using a React framework and allows the user to mint Robo
 
 The app utilizes React, Metamask, rinkeby test network, Ethers, ChakraUI, and OpenZeppelin. For smart contract testing Hardhat (https://github.com/nomiclabs/hardhat) was utilized.
 
-Check it out at the following link: 
+Check it out at the following link: https://the-full-minty.netlify.app/
 
 ![](robopunks.png)
