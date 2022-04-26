@@ -1,15 +1,14 @@
-# Basic Sample Hardhat Project
+# The Full Minty
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+For full functionality (purchasing your NFTs) please download metamask at the following link. https://metamask.io/download/
 
-Try running some of the following tasks:
+You can receive free tokens to use by going to the following link https://rinkebyfaucet.com/
+Simply enter in your desired rinkeby wallet address to send the tokens to.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This project is created using a React framework and allows the user to mint RoboPunk NFTs. Start by connecting your wallet by clicking "connect". Select how many NFTs you would like to mint (between 1 and 3) and click MINT NOW. You will receive a prompt from your wallet to confirm the charge. Once the charge is confirmed you will see the transaction complete for your Mint.
+
+The app utilizes React, Metamask, rinkeby test network, Ethers, ChakraUI, and OpenZeppelin. For smart contract testing Hardhat (https://github.com/nomiclabs/hardhat) was utilized.
+
+Check it out at the following link: 
+
+![](robopunks.png)
